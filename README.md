@@ -36,17 +36,15 @@
   KyokoAPI - My collection of free API you can use on your project.
 - 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>
   Kaga is a Reverse IP Lookup tool written in PowerShell and BourneShell to make it easy to use in any environment..
-  
-<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
+  <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
-href="https://x.com/im_anoo?s=21"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a>"https://x.com/im_anoo?s=21"
 <p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img </a>
+<a href="#"><img <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a  
 </p>
 <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
 </div>
