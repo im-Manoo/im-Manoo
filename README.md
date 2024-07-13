@@ -44,7 +44,7 @@
 <br/><br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
-href="https://https://x.com/im_anoo?s=21"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> 
+href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> 
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img </a>
 </p>
