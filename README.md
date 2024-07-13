@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- Name **Reidho Satria** / **レイドー・サトリア**
+- Name **Manoo** / **مانو**
 
 - Live in **South Sumatra, Indonesia**
 
