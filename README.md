@@ -9,7 +9,7 @@
 
 - Name **Manoo** / **مانو**
 
-- Live in **South Sumatra, Indonesia**
+- Live in **Saudi Arabia**
 
 - Studying [**Junior Back-End Developer**](https://dicoding.com)
 
