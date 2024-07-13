@@ -19,7 +19,7 @@
 
 - Have high experience with **Photoshop** and **CorelDRAW**
   
-- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
+- Understand 日本語 , العربية,and English
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
