@@ -26,7 +26,7 @@
 <br/>
 <br/>
   
-هنا كل اهتماماتي في عالم البرمجه والAi
+هنا كل اهتماماتي في عالم البرمجه والAi , h
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
